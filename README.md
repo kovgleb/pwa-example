@@ -1,6 +1,12 @@
 # WebXR Progressive Web Application Example
 
-[//]: # (https://github.com/it-zmina/webxr-pwa-example.wiki.git)
+## Link to the site page
+GitHub user page format
+```
+http://<username>.github.io/<repository>
+```
+http://it-zmina.github.io/webxr-pwa-example
+
 
 ## Resources
 
