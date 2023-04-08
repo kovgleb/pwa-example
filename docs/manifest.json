@@ -1,0 +1,21 @@
+{
+    "name":"Simple PWA Example",
+    "short_name":"SimplePWA",
+    "start_url":".",
+    "background_color": "#fff",
+    "theme_color":"#ff0",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"logo_images/logo150.png",
+            "sizes":"150x150",
+            "type":"image/png",
+            "purpose":"any maskable"
+        },
+        {
+            "src":"logo_images/logo250.png",
+            "sizes":"250x257",
+            "type":"image/png"
+        }
+    ]
+}
