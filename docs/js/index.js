@@ -21,5 +21,3 @@ document.addEventListener("DOMContentLoaded", function () {
 function init() {
   window.app = new App();
 }
-
-connectionTimout
