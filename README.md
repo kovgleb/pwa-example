@@ -2,6 +2,32 @@
 
 ## Configure Progressive Web Application (PWA)
 
+Start Lighthouse diagnostic for PWA 
+![](info/diagnostic.png)
+
+Check audit results
+![](info/diagnostic_results.png)
+
+Add manifest
+![](info/manifext.json.png)
+
+Register manifest
+![](info/inidex.html.png)
+
+Add service worker
+![](info/service_worker_1.png)
+
+![](info/service_worker_2.png)
+
+Register service worker
+![](info/index.js.png)
+
+Check audit again
+![](info/successful_audit.png)
+
+Install web page as native application
+![](info/installable_button.png)
+
 
 
 ## Link to the site page
