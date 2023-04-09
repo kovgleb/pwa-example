@@ -19,7 +19,7 @@ Add service worker
 
 ![](info/service_worker_2.png)
 
-Register service worker
+Register service worker in index.js
 ![](info/index.js.png)
 
 Check audit again
