@@ -14,12 +14,13 @@ Add manifest
 Register manifest
 ![](info/inidex.html.png)
 
-Add service worker
+Add service worker to `sw.js` file
 ![](info/service_worker_1.png)
 
 ![](info/service_worker_2.png)
 
 Register service worker in index.js
+
 ![](info/index.js.png)
 
 Check audit again
