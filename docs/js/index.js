@@ -1,4 +1,4 @@
-import {App} from "./app";
+import {App} from "./app.js";
 
 if ("serviceWorker" in navigator){
     navigator.serviceWorker.register("sw.js").then( registration => {
