@@ -14,7 +14,6 @@ const timeoutId = setTimeout(init, 4000)
 
 document.addEventListener("DOMContentLoaded", function () {
   clearTimeout(timeoutId)
-  window.app = new App();
   init()
 });
 
