@@ -30,6 +30,35 @@ Install web page as native application
 ![](info/installable_button.png)
 
 
+## Create and install APK package
+
+### Audit PWA webpage
+
+![](info/pwabuilder.com.png)
+
+### Generate APK package
+
+![](info/generate_apk_1.png)
+![](info/generate_apk_2.png)
+![](info/generate_apk_3.png)
+
+### Install APK package with Sidequest
+
+Open USB remote control
+
+![](info/com.oculus.shellenv-20230415-020943.jpg)
+
+Install APK with Sidequest
+
+![](info/sidequest.png)
+
+Open installed PWA application
+
+![](info/com.oculus.shellenv-20230415-023154.jpg)
+![](info/com.oculus.shellenv-20230415-023206.jpg)
+![](info/com.oculus.shellenv-20230415-023238.jpg)
+
+
 
 ## Link to the site page
 GitHub user page format
